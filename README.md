@@ -1,6 +1,6 @@
 # CN303_proj
 
-📩 **Spam Detection System** - A machine learning project for detecting spam messages using multiple classification algorithms.
+**Spam Detection System** - A machine learning project for detecting spam messages using multiple classification algorithms.
 
 ## About
 
