@@ -31,7 +31,7 @@ file_path = os.path.join(base_dir, "spam.csv")
 df = pd.read_csv(file_path, encoding='latin-1')
 
 # Normalize column names
-df.columns = [col.lower() for col in df.columns]
+df.columns = [col.lower() for col in df.columns
 
 # Handle different dataset formats
 if 'v1' in df.columns and 'v2' in df.columns:
